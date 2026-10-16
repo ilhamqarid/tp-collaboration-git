@@ -1,4 +1,3 @@
 # TP Collaboration Git
-
-Bienvenue dans le projet de l'etudiant B.
-
+Bienvenue dans notre projet Git realise en collaboration
+par les etudiants A et B.
